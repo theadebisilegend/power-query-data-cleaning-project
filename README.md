@@ -92,7 +92,7 @@ The final consolidated dataset contains **88 records and 5 columns**.
 
 ## Project Deliverables
 
-- **Survey_Data_Cleaning.pbix** – Power BI file containing the cleaning and transformation steps.
+- **Survey_data.pbix** – Power BI file containing the cleaning and transformation steps.
 - **Survey_Cleaned.csv** – Final cleaned and consolidated dataset.
 
 ## Skills Demonstrated
